@@ -1,3 +1,5 @@
+# Supplement Sales Analysis 
+
 # Background
 ## Role
 As a consultant for WOMart, which already has purchase data, we will use this data to enhance the company's performance by analyzing it, generating new insights, and creating predictive sales models for each store to improve and manage cash flow.
