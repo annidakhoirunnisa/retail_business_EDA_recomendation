@@ -18,28 +18,28 @@ Total Sales.
 
 # Insights
 ## Average Sales During Holidays and Discount periods
-![enter image description here](https://github.com/rialdiharry/retail_business_EDA_recomendation/blob/main/img/capture5.JPG)
+![enter image description here](https://github.com/rialdiharry/retail_business_EDA_recomendation/blob/main/img/capture5.JPG)<br>
 The analysis uncovered two key insights: higher discount levels are positively correlated with increased sales, and holiday periods significantly boost average sales compared to non-holiday times.
 
 ## Monthly Sales Trend
-![enter image description here](https://github.com/rialdiharry/retail_business_EDA_recomendation/blob/main/img/capture6.JPG)
+![enter image description here](https://github.com/rialdiharry/retail_business_EDA_recomendation/blob/main/img/capture6.JPG)<br>
 Sales trends over an 18-month period show strong peaks in January, May, and December, likely driven by seasonal factors or marketing efforts. Meanwhile, February and November see significant sales declines, indicating seasonal slowdowns. These trends suggest the importance of adjusting sales and marketing strategies to align with these cycles for better performance.
 
 ## Weekly Sales Trend 
-![enter image description here](https://github.com/rialdiharry/retail_business_EDA_recomendation/blob/main/img/capture7.JPG)
+![enter image description here](https://github.com/rialdiharry/retail_business_EDA_recomendation/blob/main/img/capture7.JPG)<br>
 The analysis of weekly sales trends reveals a notable rise in sales during the 3rd and 4th weeks of most months, especially in April, August, and December. However, February shows steady sales throughout. This pattern suggests that financial factors, such as end-of-month paydays, may drive increased spending in the later weeks of the month.
 
 ## Average Sales by Regional, Location, and Store Type
-![enter image description here](https://github.com/rialdiharry/retail_business_EDA_recomendation/blob/main/img/capture1.JPG)
+![enter image description here](https://github.com/rialdiharry/retail_business_EDA_recomendation/blob/main/img/capture1.JPG)<br>
 The highest average sales are found in Region R1, Location L2, and Store Type S4.
 
-![enter image description here](https://github.com/rialdiharry/retail_business_EDA_recomendation/blob/main/img/capture2.JPG)
+![enter image description here](https://github.com/rialdiharry/retail_business_EDA_recomendation/blob/main/img/capture2.JPG)<br>
 The data suggests a negative correlation between average order value and average sales, where stores with lower average order values tend to have higher sales volume, potentially due to offering more affordable products, while stores with higher order values may cater to niche or premium markets with fewer but higher-value transactions.
 
-![enter image description here](https://github.com/rialdiharry/retail_business_EDA_recomendation/blob/main/img/capture3.JPG)
+![enter image description here](https://github.com/rialdiharry/retail_business_EDA_recomendation/blob/main/img/capture3.JPG)<br>
 The average sales rankings from highest to lowest are R1, R3, R2, and R4, aligning with the presence of S4 and S3 stores. Regions with more S4 and S3 stores tend to have higher average sales.
 
-![enter image description here](https://github.com/rialdiharry/retail_business_EDA_recomendation/blob/main/img/capture4.JPG)
+![enter image description here](https://github.com/rialdiharry/retail_business_EDA_recomendation/blob/main/img/capture4.JPG)<br>
 The visualization shows that Store Types 3 and 4 are missing in some locations, while Store Type S1, despite having a high store count, has low performance metrics. Store Type S2 is present everywhere except L2 but has the lowest average sales.
 
 # Business Recommendation
