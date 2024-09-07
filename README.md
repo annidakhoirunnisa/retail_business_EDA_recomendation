@@ -19,7 +19,7 @@ Total Sales.
 # Insights
 ## Average Sales During Holidays and Discount periods
 ![enter image description here](https://github.com/rialdiharry/retail_business_EDA_recomendation/blob/main/img/capture5.JPG)
-The analysis uncovered two key insights: higher discount levels are positively correlated with increased sales, and holiday periods significantly boost average sales compared to non-holiday times.
+Despite the common assumption that holidays drive a surge in sales, data reveals that WOMart's average sales during holiday periods remain relatively consistent with non-holiday times. Instead, it’s the level of discounts that significantly impacts sales performance. Higher discount levels show a clear positive correlation with increased sales, suggesting that targeted promotional strategies are more effective in boosting revenue than relying on holiday shopping periods alone.
 
 ## Monthly Sales Trend
 ![enter image description here](https://github.com/rialdiharry/retail_business_EDA_recomendation/blob/main/img/capture6.JPG)
